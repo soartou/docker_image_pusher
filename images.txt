@@ -2,3 +2,4 @@ xhofe/alist:latest
 pixman/pixman:latest
 nyanmisaka/jellyfin:latest
 vaultwarden/server:latest
+
