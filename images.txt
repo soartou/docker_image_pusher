@@ -1,7 +1,3 @@
-xhofe/alist:latest
-pixman/pixman:latest
-nyanmisaka/jellyfin:latest
-vaultwarden/server:latest
 zabbix/zabbix-server-mysql:alpine-7.2
 zabbix/zabbix-web-nginx-mysql:alpine-7.2
 zabbix/zabbix-agent:alpine-7.2
